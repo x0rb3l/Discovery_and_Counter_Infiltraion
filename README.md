@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell scripts from DCI Class
+PowerShell scripts from Discovery and Counter Infiltration Class
